@@ -4,12 +4,8 @@
 
 **.Tools Used**
 
-> [passwordmeter.com](
-> 
-> 
-> [https://passwordmeter.com](https://passwordmeter.com/)
-> 
-> https://www.security.org/how-secure-is-my-password/
+> [passwordmeter.com]([https://passwordmeter.com](https://passwordmeter.com/)
+>  https://www.security.org/how-secure-is-my-password/
 > 
 
 **.Passwords Tested**
