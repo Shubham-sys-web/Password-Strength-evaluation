@@ -4,12 +4,6 @@
 
 **.Tools Used**
 
-> [passwordmeter.com]([https://passwordmeter.com](https:# Password Strength Evaluation
-
-**.Objective**To understand what makes a password strong and how different characteristics affect its strength.
-
-**.Tools Used**
-
 > [passwordmeter.com](
 > 
 > 
